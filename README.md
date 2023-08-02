@@ -1,6 +1,9 @@
-# Calculadora_Tkinter
 # Criando uma calculadora em python com a bliblioteca tkinter
-Etapas para criar uma calculadora em Python usando a biblioteca tkinter:
+
+#  Vídeo: 
+https://github.com/VenturaCerqueira/Calculadora_Tkinter/assets/82953125/11cd4fec-710d-4265-ab3c-2311f41741cb
+
+# Etapas para criar uma calculadora em Python usando a biblioteca tkinter:
 
 Para criar uma calculadora em Python usando a biblioteca tkinter, o primeiro passo é configurar a GUI (Graphical User Interface). 
 A GUI fornece a estrutura para a aparência e funcionalidade da calculadora. Tkinter é uma biblioteca Python popular para criar GUIs e está incluída na maioria das instalações Python.
